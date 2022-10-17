@@ -1,4 +1,4 @@
-# Handling-Missing-Data
+# Handling Missing Data in Python
 
 I have to analyze a relatively large amount of data and get rid of all the missing values in the dataset. The challenge in this assignment is to apply the various methods on more than 45000 observations and more than 200 features.
 
